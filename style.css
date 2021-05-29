@@ -1,0 +1,28 @@
+h1{
+    color:rgb(1, 1, 12)
+}
+
+.header{
+    background-color: rgb(221, 6, 78);
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+p,h2{
+    text-align: left;
+}
+
+.item{
+    display: flex;
+    justify-content: left;
+}
+
+body{
+    background-color:#eedf0c
+}
